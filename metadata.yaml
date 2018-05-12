@@ -1,0 +1,36 @@
+_repo: Chronicles-of-England-Scotland-and-Ireland--3-of-6---England--5-of-9-The-History-of-Edward-th__45614
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45614-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holinshed, Raphael
+    aliases:
+    - Holinshed, Raphaell
+    - Holingshed, Raphael
+    - Holynshed, Raphael
+    - Holinshed, Ralph
+    - Holinshead, Raphael
+    gutenberg_agent_id: '5166'
+    url: http://www.gutenberg.org/2009/agents/5166
+    wikipedia: http://en.wikipedia.org/wiki/Raphael_Holinshed
+description: ''
+gutenberg_issued: '2014-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- To 1485'
+- !lcsh 'Great Britain -- History -- Tudors, 1485-1603'
+- !lcc 'DA'
+- !lcsh 'Edward V, King of England, 1470-1483'
+- !lcsh 'Great Britain -- History -- Richard III, 1483-1485'
+title: 'Chronicles of England, Scotland and Ireland (3 of 6): England (5 of 9)
+
+  The History of Edward the Fift and King Richard the Third Unfinished'
+url: http://www.gutenberg.org/ebooks/45614
